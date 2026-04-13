@@ -2,8 +2,6 @@
 
 Repository ini berisi hasil pembelajaran dan reproduksi kode dari buku *Introduction to Machine Learning with Python* karya Andreas C. Müller dan Sarah Guido.
 
- Tujuan
-
 Tujuan dari repository ini adalah untuk:
 
 * Memahami konsep dasar Machine Learning
