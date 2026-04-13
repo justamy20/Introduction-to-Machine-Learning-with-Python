@@ -1,12 +1,12 @@
 # Introduction-to-Machine-Learning-with-Python
 
-Repository ini berisi hasil pembelajaran dan reproduksi kode dari buku *Introduction to Machine Learning with Python* karya Andreas C. Müller dan Sarah Guido.
+Repository ini berisi hasil pembelajaran dan reproduksi kode dari buku "Introduction to Machine Learning with Python" karya Andreas C. Müller dan Sarah Guido.
 
 Tujuan dari repository ini adalah untuk:
 
-* Memahami konsep dasar Machine Learning
-* Mencoba langsung implementasi algoritma menggunakan Python
-* Menjelaskan teori di balik model yang digunakan
+- Memahami konsep dasar Machine Learning
+- Mencoba langsung implementasi algoritma menggunakan Python
+- Menjelaskan teori di balik model yang digunakan
 
 Ringkasan Chapter
 
@@ -39,14 +39,14 @@ Chapter 7 - Text Data
 Di chapter terakhir ini dijelaskan bagaimana mengolah data teks menjadi bentuk numerik agar bisa diproses oleh model Machine Learning.
 
 Tools yang Digunakan
-
-* Python
-* scikit-learn
-* NumPy
-* pandas
-* matplotlib
+- Python
+- scikit-learn
+- NumPy
+- pandas
+- matplotlib
 
 Kesimpulan
+Dari proses ini saya jadi lebih memahami bahwa Machine Learning tidak hanya soal membuat model, tapi juga bagaimana menyiapkan data, memilih metode yang tepat, dan mengevaluasi hasilnya.
 
-Dari proses ini saya jadi lebih memahami bahwa Machine Learning tidak hanya soal membuat model, tapi juga bagaimana menyiapkan data, memilih metode yang tepat, dan mengevaluasi hasilnya dengan baik.
+Selain itu, melalui tugas ini saya juga belajar bahwa praktik langsung sangat membantu dalam memahami konsep yang sebelumnya hanya dipelajari secara teori.
 
