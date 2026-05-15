@@ -1,3 +1,4 @@
+<img width="516" height="668" alt="image" src="https://github.com/user-attachments/assets/fcd60544-b18f-453d-9c6c-4e000c90ed0f" />
 # Introduction-to-Machine-Learning-with-Python
 
 Repository ini berisi hasil pembelajaran dan reproduksi kode dari buku "Introduction to Machine Learning with Python" karya Andreas C. Müller dan Sarah Guido.
